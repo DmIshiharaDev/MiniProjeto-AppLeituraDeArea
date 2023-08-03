@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\bin\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.exe
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\bin\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.deps.json
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\bin\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.runtimeconfig.json
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\bin\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.dll
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\bin\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.pdb
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\obj\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\obj\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\obj\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\obj\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\obj\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\obj\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.dll
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\obj\Debug\net6.0\refint\MiniProjeto-AppDeLeituraDeArea.dll
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\obj\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.pdb
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\obj\Debug\net6.0\MiniProjeto-AppDeLeituraDeArea.genruntimeconfig.cache
+C:\Users\DELL\source\repos\DmIshiharaDev\MiniProjeto-AppDeLeituraDeArea\obj\Debug\net6.0\ref\MiniProjeto-AppDeLeituraDeArea.dll
